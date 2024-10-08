@@ -1,0 +1,2 @@
+# PrimaryAI
+Educational platform
